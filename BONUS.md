@@ -2,7 +2,7 @@
 
 ## quick access
 
-**chatgpt share link:** `CHATGPT SHARE LINK PLACEHOLDER`
+**chatgpt share link:** `https://chatgpt.com/share/69b7000a-c02c-800c-9c26-c4c682939fe7`
 
 **wizard prompt:**
 
